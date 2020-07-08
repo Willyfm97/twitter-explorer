@@ -33,4 +33,4 @@ Este paquete incluye funciones para:
 
 Un ejemplo de uso de las funciones se encuentra [aquí](https://github.com/Obsdemocracia/twitter-explorer/blob/master/Ejemplo%20funciones%20Twitter.ipynb)
 
-La documentación completa se encuentra [aquí]
+La documentación completa se encuentra [aquí](https://github.com/Willyfm97/twitter-explorer/blob/master/Documentación.md)

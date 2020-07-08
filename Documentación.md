@@ -1,6 +1,8 @@
 ﻿# Documentación Twitter Explorer
 
-Este es un paquete para explorar listas de tuits extraídas con las Apis Standard Search y Standard Stream de Twitter. Las funciones aquí contenidas permiten extraer, en tiempo real, ciertos tipos de datos contenidos en los archivos de Twitter.  
+Este es un paquete para explorar listas de tuits extraídas con las Apis Standard Search y Standard Stream de Twitter. Las funciones aquí contenidas permiten extraer, en tiempo real, ciertos tipos de datos contenidos en los archivos de Twitter. 
+
+**English users will find translated documentation using the help() command in python**
 
 
 ## timeline
